@@ -1,0 +1,32 @@
+{
+    "MODE": "tdm",
+    "serverName": "4 TDM",
+    "TEAM_AMOUNT": 4,
+    "SPAWN_FISHES": true,
+    "SPAWN_AQUAFOOD": true,
+    "ROOM_SETUP": [
+        ["bas1", "n_b1", "norm", "norm", "norm", "roid", "norm", "norm", "norm", "roid", "roid", "norm", "norm", "norm", "roid", "norm", "norm", "norm", "n_b4", "bas4"],
+        ["n_b1", "n_b1", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "roid", "norm", "norm", "norm", "norm", "norm", "norm", "n_b4", "n_b4"],
+        ["norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm"],
+        ["norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "roid", "roid", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm"],
+        ["norm", "norm", "norm", "norm", "roid", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "roid", "norm", "norm", "norm", "norm"],
+        ["roid", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "roid"],
+        ["norm", "norm", "norm", "norm", "norm", "norm", "watr", "watr", "watr", "nest", "nest", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm"],
+        ["norm", "norm", "norm", "norm", "norm", "watr", "barn", "barn", "nest", "nest", "nest", "nest", "roid", "watr", "watr", "norm", "norm", "norm", "norm", "norm"],
+        ["norm", "norm", "norm", "norm", "watr", "barn", "barn", "nest", "nest", "nest", "nest", "nest", "nest", "watr", "watr", "watr", "norm", "norm", "norm", "norm"],
+        ["roid", "norm", "norm", "roid", "watr", "barn", "nest", "nest", "nest", "roid", "norm", "nest", "nest", "nest", "barn", "watr", "roid", "norm", "norm", "roid"],
+        ["roid", "norm", "norm", "roid", "watr", "barn", "nest", "nest", "nest", "norm", "roid", "nest", "nest", "nest", "barn", "watr", "roid", "norm", "norm", "roid"],
+        ["norm", "norm", "norm", "norm", "norm", "barn", "watr", "nest", "nest", "nest", "nest", "nest", "nest", "barn", "barn", "watr", "norm", "norm", "norm", "norm"],
+        ["norm", "norm", "norm", "norm", "norm", "watr", "barn", "barn", "nest", "nest", "nest", "nest", "barn", "barn", "barn", "watr", "norm", "norm", "norm", "norm"],
+        ["norm", "norm", "norm", "norm", "norm", "norm", "watr", "watr", "barn", "nest", "nest", "watr", "watr", "watr", "watr", "norm", "norm", "norm", "norm", "norm"],
+        ["roid", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "watr", "barn", "watr", "watr", "watr", "norm", "norm", "norm", "norm", "norm", "norm", "roid"],
+        ["norm", "norm", "norm", "norm", "roid", "norm", "norm", "norm", "norm", "watr", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm"],
+        ["norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "roid", "roid", "norm", "norm", "norm", "norm", "roid", "norm", "norm", "norm", "norm"],
+        ["norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm"],
+        ["n_b2", "n_b2", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "n_b3", "n_b3"],
+        ["bas2", "n_b2", "norm", "norm", "norm", "roid", "norm", "norm", "norm", "roid", "roid", "norm", "norm", "norm", "roid", "norm", "norm", "norm", "n_b3", "bas3"]
+    ],
+    "X_GRID": 20,
+    "Y_GRID": 20,
+    "BOTS": 45
+}

@@ -1,0 +1,50 @@
+let map = {
+    "TEAM_AMOUNT": 1,
+    "MODE": "tdm",
+    "serverName": "The Shattered Beyond",
+    /*MAZE: {
+        ENABLED: true,
+        cellSize: 300,
+        stepOneSpacing: 2,
+        fillChance: 0.98,
+        sparedChance: 0,
+        cavey: false,
+        lineAmount: false,
+        margin: 0,
+        posMulti: 0.25
+    },*/
+    "WIDTH": 12000,
+    "HEIGHT": 12000,
+    "ROOM_SETUP": [
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"],
+        ["sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb", "sb"]
+    ],
+    "X_GRID": 18,
+    "Y_GRID": 18,
+    "BOTS": 5,
+    "MAX_FOOD": 2,
+    "MAX_NEST_FOOD": 6,
+    "MAX_CRASHERS": 3,
+    "MAX_ENTITIES": 60,
+    "MAX_SANCS": 1,
+    "TIME_BETWEEN_SANCS": 900000,
+    "BLACKOUT": true,
+    "NO_MAP": true
+}
+map

@@ -1,0 +1,54 @@
+T1 debuffs 
+----------------------------------------
+Chilling = slows down victims; color is light cyan
+Poisoning = damages victims overtime after the initial hit; color is light chartreuse
+Swelling = makes victims grow in size; color is lavender
+Myelin = lessens victim body damage and overall HP; color is pink 
+
+T2 debuffs 
+----------------------------------------
+Chilling branches: 
+-------------------
+Paralysis = completely halts the motion of its victim; color is light yellow 
+Blinding = applies a gaussian blur effect over its victim's screen; color is violet 
+Wetness/watering = makes victims slippery; color is azure
+Flu = the spreader of the chilling branch; color is red
+Squall = forces victims to be pushed in a random direction; color is light orange
+
+Poisoning branches: 
+-------------------
+Venom = poisoning debuff, but it also drains shield HP, and disables regeneration for a bit; color is light indigo
+Burning = the spreader of the poisoning branch; color is orange
+EMP = makes victims unable to fire; turrets arent affected; color is dark grey
+
+Swelling branches: 
+-------------------
+Shrivelling = the exact opposite of Swelling, it shrinks enemies; color is dark rose
+Enigma = reverses enemy motion; color is black
+Dusting = the spreader of the swelling branch; color is dull brown
+Straining = lessens the FoV of victims, and is stackable; color is periwinkle
+Bounciness = makes victims low penetration and more able to have recoil; color is light green
+
+Myelin branches: 
+-------------------
+Fear = makes its victim's danger value higher; color is dark springGreen
+Electricity = use auras that damage and slow enemies in them; color is blue
+Attraction = 
+Infatuation = 
+Oxidization = 
+
+T3 debuffs 
+----------------------------------------
+Numbing = the spreading paralysis; color is grey
+Power-Down = paralysis, but it also locks victim facing for a bit; color is yellow
+Blinding II = stronger Blinding effect; color is light grey
+Radiation = the spreading venom; color is chartreuse
+Lurching = makes victims violently face everywhere; color is navy
+Foreknowledge = the opposite of straining, it grows your FoV ALOT; color is light scarlet
+Atrophy = spreading shrivel; color is green
+Lament = spreading strain; color is cyan
+Terror = much stronger Fear effect; color is springGreen
+Stunning = Electricity effect, but it does more damage, and also halts enemies, like paralysis; color is dark azure
+
+
+
