@@ -1,6 +1,6 @@
 "use strict";
 
-window.partyTime = true
+window.partyTime = false
 
 // Ad stuff
 let adStatus = true;
