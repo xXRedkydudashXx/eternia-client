@@ -87,29 +87,29 @@ function RememberScriptingIsBannable() {
             ["./resources/fordf150Flipped.png", "f150Flipped", 2],
             ["./resources/treadmarks.png", "treadmarks"],
             ["./resources/seniorpentagon.png", "seniorpentagon"],
-            ["./star2", "starbackground"],
-            ["./stars2Inverted.png", "starbackgroundInverted"],
-            ["./improvise", "improvise"],
-            ["./nokia", "empnokia"],
-            ["./implosive", "implosive"],
-            ["./biplode", 'biplode'],
-            ["./gadget", 'gadget'],
-            ["./Cherry", 'cherry'],
-            ["./Strawberry.png", 'straw'],
-            ["./Apple", 'apple'],
-            ["./Orange", 'orange'],
-            ["./Melon", 'melon'],
-            ["./Flagship", 'flagship'],
-            ["./Bell", 'bell'],
-            ["./Key", 'key'],
-            ["./Fire Hydrant", 'hydrant'],
-            ["./Water Drop", 'hydrantWater'],
-            ["./Banana", 'banana'],
-            ["./Ghost", 'Ghost'],
-            ["./pGhost", 'pGhost'],
-            ["./Soda", 'soda'],
-            ["./eds", "eds"],
-            ["./pNokia", "pBomb"],
+            ["./resources/star2", "starbackground"],
+            ["./resources/stars2Inverted.png", "starbackgroundInverted"],
+            ["./resources/improvise", "improvise"],
+            ["./resources/nokia", "empnokia"],
+            ["./resources/implosive", "implosive"],
+            ["./resources/biplode", 'biplode'],
+            ["./resources/gadget", 'gadget'],
+            ["./resources/Cherry", 'cherry'],
+            ["./resources/Strawberry.png", 'straw'],
+            ["./resources/Apple", 'apple'],
+            ["./resources/Orange", 'orange'],
+            ["./resources/Melon", 'melon'],
+            ["./resources/Flagship", 'flagship'],
+            ["./resources/Bell", 'bell'],
+            ["./resources/Key", 'key'],
+            ["./resources/Fire Hydrant", 'hydrant'],
+            ["./resources/Water Drop", 'hydrantWater'],
+            ["./resources/Banana", 'banana'],
+            ["./resources/Ghost", 'Ghost'],
+            ["./resources/pGhost", 'pGhost'],
+            ["./resources/Soda", 'soda'],
+            ["./resources/eds", "eds"],
+            ["./resources/pNokia", "pBomb"],
         ]) {
             setTimeout(() => {
                 if (image[2]) {
@@ -1035,7 +1035,7 @@ function RememberScriptingIsBannable() {
             };
             let entityEditor = document.getElementById("entityEditor")
             entityEditor.onclick = () => {
-              window.open("/editor.html", "_blank", "width=600,height=400,top=0,left=0");
+              window.open("/eternia-client/editor.html", "_blank", "width=600,height=400,top=0,left=0");
             }
             resultField.addEventListener("keydown", event => {
                 if (event.key == "Enter") inportButton.click();
@@ -11419,6 +11419,7 @@ const mixColors = (() => {
         }
         document.getElementById("gameCanvas").focus()
     }
+    document.s = _socket
 }
 
 let startInterval = setInterval(() => {
